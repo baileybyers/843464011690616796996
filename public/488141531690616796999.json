@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854520961923",
+    "project_id": "loans-for-bad-credit-fast",
+    "storage_bucket": "loans-for-bad-credit-fast.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854520961923:android:d7ff36ff63d6a212f5b4b6",
+        "android_client_info": {
+          "package_name": "com.loansforbadcreditfast.loanscashadvancebenji"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854520961923-kbi8cdeat8gbkkh21r4nehu3p22g5ch9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw427kBAqBCnGW3XOoMrYq8UWQSBnVyy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854520961923-kbi8cdeat8gbkkh21r4nehu3p22g5ch9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
